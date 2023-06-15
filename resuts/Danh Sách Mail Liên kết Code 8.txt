@@ -1,0 +1,34 @@
+
+itachi@usa.com:999babushka123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[itachi@usa.com] | Tổng SMS=[0] | SMS= 
+drbao@usa.com:81czmh123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[3] | Mail=[k************o@i*****.com<|>drbao@usa.com<|>c******3@gmail.com] | Tổng SMS=[1] | SMS=['+*********13'] 
+mm@usa.com:Maddy! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[mm@usa.com] | Tổng SMS=[1] | SMS=['+***********75'] 
+drbao@usa.com:81czmh123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[3] | Mail=[k************o@i*****.com<|>drbao@usa.com<|>c******3@gmail.com] | Tổng SMS=[1] | SMS=['+*********13'] 
+mm@usa.com:Maddy! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[mm@usa.com] | Tổng SMS=[1] | SMS=['+***********75'] 
+marku@usa.com:Markus! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[marku@usa.com] | Tổng SMS=[0] | SMS= 
+drtaylor@usa.com:8qPLpM123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[drtaylor@usa.com] | Tổng SMS=[2] | SMS=['+*********32', '+*********46'] 
+kingroyal@usa.com:Igromania1 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[2] | Mail=[a***********r@o******.com<|>kingroyal@usa.com] | Tổng SMS=[0] | SMS= 
+reese@usa.com:Hello! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[reese@usa.com] | Tổng SMS=[0] | SMS= 
+vidal@usa.com:1q2w3e4r5t123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[vidal@usa.com] | Tổng SMS=[0] | SMS= 
+shadow@usa.com:Welcome123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[shadow@usa.com] | Tổng SMS=[2] | SMS=['+*********71', '+*********14'] 
+mariaaa@usa.com:Sabur! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[2] | Mail=[k***********9@o******.com<|>mariaaa@usa.com] | Tổng SMS=[0] | SMS= 
+drbao@usa.com:81czmh123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[3] | Mail=[k************o@i*****.com<|>drbao@usa.com<|>c******3@gmail.com] | Tổng SMS=[1] | SMS=['+*********13'] 
+itachi@usa.com:999babushka123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[itachi@usa.com] | Tổng SMS=[0] | SMS= 
+itachi@usa.com:999babushka123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[itachi@usa.com] | Tổng SMS=[0] | SMS= 
+bdmiller@usa.com:123456 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[bdmiller@usa.com] | Tổng SMS=[1] | SMS=['+*********98'] 
+mukesh@usa.com:Atoz123456 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[mukesh@usa.com] | Tổng SMS=[2] | SMS=['+**********19', '+*********51'] 
+itachi@usa.com:999babushka123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[itachi@usa.com] | Tổng SMS=[0] | SMS= 
+bdmiller@usa.com:123456 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[bdmiller@usa.com] | Tổng SMS=[1] | SMS=['+*********98'] 
+itachi@usa.com:999babushka123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[itachi@usa.com] | Tổng SMS=[0] | SMS= 
+drbao@usa.com:81czmh123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[3] | Mail=[k************o@i*****.com<|>drbao@usa.com<|>c******3@gmail.com] | Tổng SMS=[1] | SMS=['+*********13'] 
+mukesh@usa.com:Atoz123456 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[mukesh@usa.com] | Tổng SMS=[2] | SMS=['+**********19', '+*********51'] 
+thehunters@usa.com:Josh1 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[thehunters@usa.com] | Tổng SMS=[1] | SMS=['+*********13'] 
+paata@usa.com:argvliani => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[paata@usa.com] | Tổng SMS=[0] | SMS= 
+panos@usa.com:1597530-1597530-1 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[panos@usa.com] | Tổng SMS=[1] | SMS=['+**********64'] 
+mm@usa.com:Maddy! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[mm@usa.com] | Tổng SMS=[1] | SMS=['+***********75'] 
+love_@usa.com:Qazwsxcvb! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[love_@usa.com] | Tổng SMS=[0] | SMS= 
+ahmed@usa.com:epicw => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[ahmed@usa.com] | Tổng SMS=[1] | SMS=['+**********06'] 
+momo@usa.com:BUTT! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[momo@usa.com] | Tổng SMS=[1] | SMS=['+***********10'] 
+ser@usa.com:123123! => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[3] | Mail=[l*********a@hotmail.com<|>m***********0@o******.com<|>ser@usa.com] | Tổng SMS=[0] | SMS= 
+carito@usa.com:sebastian => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[carito@usa.com] | Tổng SMS=[1] | SMS=['+**********07'] 
+freak@usa.com:Password1 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[1] | Mail=[freak@usa.com] | Tổng SMS=[1] | SMS=['+**********94'] 
+ronald@usa.com:Juju123 => Status=[Mail Liên kết] | Code = [8] | Mail Liên Kết=[2] | Mail=[r************e@gmail.com<|>ronald@usa.com] | Tổng SMS=[1] | SMS=['+*********70'] 
